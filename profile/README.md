@@ -6,6 +6,4 @@ Small, delightful tools for working with AI.
 
 ## Projects
 
-| | |
-|---|---|
-| 🎻 [Claude Orchestra](https://github.com/lemonade-ai/claude_orchestra) | Hear Claude work: sound packs for Claude Code, from a laptop keyboard to a live orchestra. |
+- 🎻 **[Claude Orchestra](https://github.com/lemonade-ai/claude_orchestra)**: hear Claude work. Sound packs for Claude Code, from a laptop keyboard to a live orchestra.
